@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "name": "ruby-sandbox",
+            "path": "."
+        },
+        {
+            "name": "new-ruby",
+            "path": ".devcontainer/new-ruby"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            ".devcontainer/new-ruby": true
+        }
+    }
+}
